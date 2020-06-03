@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Particulas2Dc", "Particulas2Dc\Particulas2Dc.csproj", "{205D9FE8-D0DC-4308-8F4F-D7356FBBEABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{205D9FE8-D0DC-4308-8F4F-D7356FBBEABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{205D9FE8-D0DC-4308-8F4F-D7356FBBEABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{205D9FE8-D0DC-4308-8F4F-D7356FBBEABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{205D9FE8-D0DC-4308-8F4F-D7356FBBEABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

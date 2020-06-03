@@ -1,0 +1,17 @@
+C:\DESARROLLO\DirectX\Particulas2Dc\Particulas2Dc\obj\Debug\ResolveAssemblyReference.cache
+C:\DESARROLLO\DirectX\Particulas2Dc\Particulas2Dc\obj\Debug\Particulas2Dc.Properties.Resources.resources
+C:\DESARROLLO\DirectX\Particulas2Dc\Particulas2Dc\obj\Debug\Particulas2Dc.csproj.GenerateResource.Cache
+C:\DESARROLLO\DirectX\Particulas2Dc\Particulas2Dc\bin\Debug\Particulas2Dc.exe
+C:\DESARROLLO\DirectX\Particulas2Dc\Particulas2Dc\bin\Debug\Particulas2Dc.pdb
+C:\DESARROLLO\DirectX\Particulas2Dc\Particulas2Dc\obj\Debug\Particulas2Dc.exe
+C:\DESARROLLO\DirectX\Particulas2Dc\Particulas2Dc\obj\Debug\Particulas2Dc.pdb
+C:\DESARROLLO\DirectX\Particulas2Dc\Particulas2Dc\obj\Debug\Particulas2Dc.Form1.resources
+C:\DESARROLLO\DirectX\Particulas2Dc\Particulas2Dc\bin\Release\Particulas2Dc.exe
+C:\DESARROLLO\DirectX\Particulas2Dc\Particulas2Dc\bin\Release\Particulas2Dc.pdb
+C:\DESARROLLO\DirectX\Particulas2Dc\Particulas2Dc\obj\Release\ResolveAssemblyReference.cache
+C:\DESARROLLO\DirectX\Particulas2Dc\Particulas2Dc\obj\Release\Particulas2Dc.Form1.resources
+C:\DESARROLLO\DirectX\Particulas2Dc\Particulas2Dc\obj\Release\Particulas2Dc.Properties.Resources.resources
+C:\DESARROLLO\DirectX\Particulas2Dc\Particulas2Dc\obj\Release\Particulas2Dc.csproj.GenerateResource.Cache
+C:\DESARROLLO\DirectX\Particulas2Dc\Particulas2Dc\obj\Release\Particulas2Dc.exe
+C:\DESARROLLO\DirectX\Particulas2Dc\Particulas2Dc\obj\Release\Particulas2Dc.pdb
+C:\DESARROLLO\DirectX\Particulas2Dc\Particulas2Dc\bin\Debug\CTCBASE.dll
